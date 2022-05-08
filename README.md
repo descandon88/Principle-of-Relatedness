@@ -9,3 +9,6 @@ products that are likely to be exported in tandem—to show that the probability
 country will start exporting a product increases with the number of related products that
 this country already exports </p>
 2. Relatedness, Complexity and Local Growth <a href="https://docs.iza.org/dp12223.pdf"> Paper </a>
+
+#Theory
+1. Matrix Recommendation systems - Matrix Factorization <a href="https://developers.google.com/machine-learning/recommendation/collaborative/matrix"> Link </a> 
