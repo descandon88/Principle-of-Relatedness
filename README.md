@@ -10,5 +10,5 @@ country will start exporting a product increases with the number of related prod
 this country already exports </p>
 2. Relatedness, Complexity and Local Growth <a href="https://docs.iza.org/dp12223.pdf"> Paper </a>
 
-#Theory
+# Theory
 1. Matrix Recommendation systems - Matrix Factorization <a href="https://developers.google.com/machine-learning/recommendation/collaborative/matrix"> Link </a> 
