@@ -1,5 +1,5 @@
-# Principle-of-Relatedness
-Some sources of principle of relatedness and complex systems for economic growth
+# Principle-of-Relatedness and Singular Value Decomposition (SVD)
+Some sources of principle of relatedness, SVD and complex systems for economic growth
 
 # Papers
 1. The Principle of Relatedness: Proceedings of the Ninth International Conference on Complex Systems <a href="https://www.researchgate.net/publication/326562653_The_Principle_of_Relatedness_Proceedings_of_the_Ninth_International_Conference_on_Complex_Systems"> Paper </a>
