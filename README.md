@@ -8,7 +8,7 @@ Some sources of principle of relatedness, SVD and complex systems for economic g
 products that are likely to be exported in tandem—to show that the probability that a
 country will start exporting a product increases with the number of related products that
 this country already exports </p>
-2. Relatedness, Complexity and Local Growth <a href="https://docs.iza.org/dp12223.pdf"> Paper </a>
+2. Relatedness, Complexity and Local Growth <a href="https://docs.iza.org/dp12223.pdf"> Paper </a> <p>
 3. Relatedness in the Era of Machine Learning <a href="https://arxiv.org/pdf/2103.06017.pdf">Paper</a>
 
 
