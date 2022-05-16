@@ -12,5 +12,6 @@ Some sources of principle of relatedness, SVD and complex systems for economic g
 # Theory
 1. Matrix Recommendation systems - Matrix Factorization <a href="https://developers.google.com/machine-learning/recommendation/collaborative/matrix"> Link </a> 
 2. Understanding Singular Value Decomposition and its Application in Data Science <a href="https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d#:~:text=In%20linear%20algebra%2C%20the%20Singular,important%20applications%20in%20data%20science.">Link</a>
-3. Singular Value Decomposition (SVD) tutorial, BE.400 / 7.548<a href="https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm">Link</a>
+3. Singular Value Decomposition (SVD) tutorial, BE.400 / 7.548 <a href="https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm">Link</a>
+4. Eigenvalues and Eigenvectors <a href="https://textbooks.math.gatech.edu/ila/eigenvectors.html">Link</a>
  
