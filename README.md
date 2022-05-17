@@ -15,6 +15,8 @@ Some sources of principle of relatedness, SVD and complex systems for economic g
 3. Singular Value Decomposition (SVD) tutorial, BE.400 / 7.548 <a href="https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm">Link</a>
 4. Eigenvalues and Eigenvectors <a href="https://textbooks.math.gatech.edu/ila/eigenvectors.html">Link</a>
 
-# Video
+# Videos
 1.  Singular Value Decomposition | Stanford University <a href="https://www.youtube.com/watch?v=P5mlg91as1c&ab_channel=MITOpenCourseWare">Link</a>
+2.  Singular Value Decomposition (the SVD) | MIT OpenCourseWare <a href="https://www.youtube.com/watch?v=mBcLRGuAFUk&ab_channel=MITOpenCourseWare">Link</a>
+
  
