@@ -1,5 +1,5 @@
 # Principle-of-Relatedness and Singular Value Decomposition (SVD)
-Some sources of principle of relatedness, SVD and complex systems for economic growth
+Some resources of principle of relatedness, SVD and complex systems for economic growth
 
 # Papers
 <p>In principle, we say that two activities, such as products, industries, or research areas are related when they require similar knowledge or inputs</p>
