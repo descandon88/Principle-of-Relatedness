@@ -1,4 +1,4 @@
-# Match for machine learning
+# Match for Machine Learning
 Some resources of principle of relatedness, SVD and complex systems for economic growth, eigenvalues, eigenvectors
 
 # Papers
