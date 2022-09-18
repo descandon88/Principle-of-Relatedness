@@ -19,5 +19,7 @@ Some resources of principle of relatedness, SVD and complex systems for economic
 1.  Singular Value Decomposition | Stanford University <a href="https://www.youtube.com/watch?v=P5mlg91as1c&ab_channel=MITOpenCourseWare">Link</a>
 2.  Singular Value Decomposition (the SVD)- Principal Component Analysis (PCA) by  Gilbert Strang| MIT OpenCourseWare <a href="https://www.youtube.com/watch?v=mBcLRGuAFUk&ab_channel=MITOpenCourseWare">Link</a>
 3.  Computing the Singular Value Decomposition | MIT 18.06SC Linear Algebra, Fall 2011 <a href="https://www.youtube.com/watch?v=cOUTpqlX-Xs&ab_channel=MITOpenCourseWare"> Link </a>
+4. Eigenvectors and Eigenvalues — Topic 28 of Machine Learning Foundations  <a href="https://www.youtube.com/watch?v=AeIttlCdFXU">Link</a>
+
 
  
