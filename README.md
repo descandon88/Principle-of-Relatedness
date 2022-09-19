@@ -14,6 +14,8 @@ Some resources of principle of relatedness, SVD and complex systems for economic
 2. Understanding Singular Value Decomposition and its Application in Data Science <a href="https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d#:~:text=In%20linear%20algebra%2C%20the%20Singular,important%20applications%20in%20data%20science.">Link</a>
 3. Singular Value Decomposition (SVD) tutorial, BE.400 / 7.548 <a href="https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm">Link</a>
 4. Eigenvalues and Eigenvectors <a href="https://textbooks.math.gatech.edu/ila/eigenvectors.html">Link</a>
+5. Mathematics for Machine Learning; Garrett Thomas Department of Electrical Engineering and Computer Sciences University of California, Berkeley  <a href="https://gwthomas.github.io/docs/math4ml.pdf">Paper</a>
+
 
 # Videos
 1.  Singular Value Decomposition | Stanford University <a href="https://www.youtube.com/watch?v=P5mlg91as1c&ab_channel=MITOpenCourseWare">Link</a>
