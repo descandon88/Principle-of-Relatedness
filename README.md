@@ -15,6 +15,7 @@ Machine Learning Foundations:  resources of principle of relatedness, SVD and co
 3. Singular Value Decomposition (SVD) tutorial, BE.400 / 7.548 <a href="https://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm">Link</a>
 4. Eigenvalues and Eigenvectors <a href="https://textbooks.math.gatech.edu/ila/eigenvectors.html">Link</a>
 5. Mathematics for Machine Learning; Garrett Thomas Department of Electrical Engineering and Computer Sciences University of California, Berkeley  <a href="https://gwthomas.github.io/docs/math4ml.pdf">Link</a>
+6. Machine Learning University (MCU) <a href="https://mlu-explain.github.io/">Link</a>
 
 
 # Videos
